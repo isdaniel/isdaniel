@@ -10,3 +10,5 @@
 - 😄 I’m currently working on Taipei, passionate about creating and develop OOP，AOP program architecture, enjoy in design pattern
 - 🌱 I'm good at SQL Server performance tuning, big fan on .net stuff, like to create elegance programme architecture
 - 📫 I'm an open-source, StackOverflow contributor.
+
+![](https://github-profile-trophy.vercel.app/?username=isdaniel&theme=flat&no-frame=true&margin-w=30)
