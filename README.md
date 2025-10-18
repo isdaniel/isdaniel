@@ -1,5 +1,5 @@
 - 😄 I’m currently working on Taipei, passionate about creating and develop OOP，AOP program architecture, enjoy in design pattern
-- 🌱 I'm good at SQL Server performance tuning, big fan on .net stuff, like to create elegance programme architecture
+- 🌱 I'm good at SQL Server/PostgreSQL performance tuning, big fan on .net/rust stuff, like to create elegance programme architecture
 - 📫 I'm an open-source, StackOverflow contributor.
 
 
